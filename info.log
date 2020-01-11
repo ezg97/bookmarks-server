@@ -1,0 +1,17 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Bookmark with id fee4c2ee-0196-4d8a-bc00-787043eb20a6 created","level":"info"}
+{"message":"Bookmark with id [object Object] not found","level":"error"}
+{"message":"Bookmark with id [object Object] not found","level":"error"}
+{"message":"Bookmark with id [object Object] not found","level":"error"}
+{"message":"Bookmark with id [object Object] not found","level":"error"}
+{"message":"Bookmark with id e4069549-9c4b-4f87-a03a-d45ee1cea5aa not found","level":"error"}
+{"message":"Bookmark with id db2ae273-ab4e-4ac9-b3e1-5e0042220365f not found","level":"error"}
+{"message":"Bookmark with id db2ae273-ab4e-4ac9-b3e1-5e0042220365f not found","level":"error"}
+{"message":"Bookmark with id db2ae273-ab4e-4ac9-b3e1-5e0042220365 not found","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/5432627e-e996-4bd7-abf2-39afeaa91e16","level":"error"}
+{"message":"Bookmark with id 5432627e-e996-4bd7-abf2-39afeaa91e16 deleted.","level":"info"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
